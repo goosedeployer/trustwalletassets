@@ -1,0 +1,24 @@
+{
+    "name": "Goose",
+    "website": "https://goosecoin.io/",
+    "description": "Hello frogs, it's Goose time to shine!",
+    "explorer": "https://basescan.org/token/0xe7828e5d74910b9354d1acde7dd1a7464ead7131",
+    "type": "ERC20",
+    "symbol": "GOOSE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe7828e5d74910b9354d1acde7dd1a7464ead7131",
+    "tags": [
+        "memes"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/goosecoin_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/gooseportal"
+        }
+    ]
+}
